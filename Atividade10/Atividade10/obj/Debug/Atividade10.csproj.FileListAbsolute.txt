@@ -1,0 +1,8 @@
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade10\Atividade10\Atividade10\obj\Debug\Atividade10.csproj.AssemblyReference.cache
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade10\Atividade10\Atividade10\obj\Debug\Atividade10.csproj.SuggestedBindingRedirects.cache
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade10\Atividade10\Atividade10\obj\Debug\Atividade10.csproj.CoreCompileInputs.cache
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade10\Atividade10\Atividade10\bin\Debug\Atividade10.exe.config
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade10\Atividade10\Atividade10\bin\Debug\Atividade10.exe
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade10\Atividade10\Atividade10\bin\Debug\Atividade10.pdb
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade10\Atividade10\Atividade10\obj\Debug\Atividade10.exe
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\Atividade10\Atividade10\Atividade10\obj\Debug\Atividade10.pdb
